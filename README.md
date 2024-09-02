@@ -1,6 +1,6 @@
 # Hi there, I'm Adam Skoglund 👋
 
-**Data Science Enthusiast | Data Analyst Intern at PACCAR, Inc. | Informatics Student at the University of Washington**
+**Data Science Enthusiast | Informatics Student at the University of Washington**
 
 Welcome to my GitHub! I'm a passionate data science student at the University of Washington with a focus on Data Science and a minor in Statistics. My journey in tech has allowed me to develop a strong foundation in data analysis, machine learning, and software development.
 
@@ -13,16 +13,24 @@ Welcome to my GitHub! I'm a passionate data science student at the University of
 
 ## 🚀 Projects
 
-### [ScolioVision](https://github.com/AdamSkog/ScolioVision)
+### [ScolioVision](https://github.com/AdamSkog/Scoliosis-Xray-Classification)
 - Developed a machine learning model to classify scoliosis from X-ray images using transfer learning with ResNet-50 CNN.
 - Achieved 95% accuracy with various regularization techniques.
 - Implemented a robust training pipeline with PyTorch, leveraging transfer learning techniques, model validation, and optimization.
 - Deployed TensorBoard using AWS Fargate for scalable, cost-effective real-time monitoring.
 
-### [King County Home Price Predictor](https://github.com/AdamSkog/KingCountyHomePricePredictor)
+### [King County Home Price Predictor](https://github.com/AdamSkog/Housing-Price-Prediction-King-County)
 - Created a predictive model using XGBoost to forecast house prices with 85% accuracy on the test set.
 - Performed extensive feature engineering and automated hyperparameter optimization using Optuna.
 - Hosted the model via Streamlit for real-time user inferences.
+
+## 💼 Past Experience
+
+### Data Analyst Intern at PACCAR, Inc. (June 2024 – August 2024)
+- Developed data clustering models in Python, leveraging K-means and dimensionality reduction techniques to segment dealers, leading to a predicted 20% increase in targeted marketing campaign effectiveness.
+- Optimized data ingestion and cleaning processes using SQL within Snowflake and SQLAlchemy, resulting in a 20% reduction in data processing time for clustered dealer analysis.
+- Developed Tableau dashboards enabling real-time filtering, saving 30 hours per month on warranty claim reporting and providing instant access to key summary statistics and KPIs.
+- Presented final insights and impact to executive leadership, highlighting the effectiveness of data-driven solutions and the overall business value delivered.
 
 ## 🌐 Let's Connect!
 
