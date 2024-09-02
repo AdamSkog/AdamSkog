@@ -11,8 +11,9 @@ Welcome to my GitHub! I'm a passionate data science student at the University of
   - **Technologies:** pandas, Scikit-learn, XGBoost, PyTorch, TensorFlow, Matplotlib, Streamlit, AWS, Azure, Docker
   - **Tools:** Git, Linux, Jupyter, Tableau, Snowflake, MLFlow, DVC
 
-## 🚀 Projects
+# 🚀 Projects
 
+## 🤖 Machine Learning
 ### [ScolioVision](https://github.com/AdamSkog/Scoliosis-Xray-Classification)
 - Developed a machine learning model to classify scoliosis from X-ray images using transfer learning with ResNet-50 CNN.
 - Achieved 95% accuracy with various regularization techniques.
@@ -23,6 +24,26 @@ Welcome to my GitHub! I'm a passionate data science student at the University of
 - Created a predictive model using XGBoost to forecast house prices with 85% accuracy on the test set.
 - Performed extensive feature engineering and automated hyperparameter optimization using Optuna.
 - Hosted the model via Streamlit for real-time user inferences.
+
+### [Stroke Risk Classifier](https://github.com/AdamSkog/Stroke-Risk-Classifier)
+- Developed a machine learning model to predict the risk of stroke based on medical and demographic information.
+- Utilized Logistic Regression and XGBoost algorithms for model training.
+- Addressed the imbalance in the dataset, which made achieving an accurate model challenging.
+- Implemented SMOTE (Synthetic Minority Over-sampling Technique) to balance the training dataset and improve model performance.
+- Conducted extensive data preprocessing, including scaling numeric features and encoding categorical variables.
+- Achieved improved model performance by tuning hyperparameters using Optuna.
+- Deployed the model as a Streamlit web application for real-time stroke risk prediction.
+
+## 💻 Other
+### [StudySpark](https://github.com/AdamSkog/StudySpark)
+- Developed an interactive web application for creating and managing vocabulary decks to enhance study routines.
+- Implemented user authentication and data persistence using Firebase, ensuring personalized study experiences.
+- Utilized React for building dynamic user interfaces and React Router for seamless navigation.
+- Integrated Bootstrap and Material UI for responsive and visually appealing design.
+- Created a robust feature set including deck creation, card management, and search functionality.
+- Deployed the application with a focus on performance and user experience.
+
+This project was developed for the INFO340: Client Side Web Development class at the University of Washington iSchool.
 
 ## 💼 Past Experience
 
