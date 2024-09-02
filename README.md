@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm a passionate data science student at the University of
 - Deployed the model as a Streamlit web application for real-time stroke risk prediction.
 
 ## 💻 Other
-### [StudySpark](https://github.com/AdamSkog/StudySpark)
+### [StudySpark](https://github.com/info340b-au23/StudySpark)
 - Developed an interactive web application for creating and managing vocabulary decks to enhance study routines.
 - Implemented user authentication and data persistence using Firebase, ensuring personalized study experiences.
 - Utilized React for building dynamic user interfaces and React Router for seamless navigation.
